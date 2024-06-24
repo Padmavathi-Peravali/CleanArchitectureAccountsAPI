@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "AccountNumber": "55801512607",
+    "SortCode": "25-20-20",
+    "Name": "David",
+    "EmailAddress": "David@virtusa.com",
+    "AddressLine": "Roden Street, London",
+    "Country": "UK",
+    "State": "England",
+    "ZipCode": "2Z12ZP",
+    "AccountType": {
+      "AccountTypeId": 1,
+      "Name": "Current"
+    },
+    "Balance": 10000
+  },
+  {
+    "Id": 2,
+    "AccountNumber": "55801512608",
+    "SortCode": "25-20-21",
+    "Name": "Ian",
+    "EmailAddress": "Ian@virtusa.com",
+    "AddressLine": "Belgrave Lane,London",
+    "Country": "UK",
+    "State": "England",
+    "ZipCode": "2Z12ZP",
+    "AccountType": {
+      "AccountTypeId": 2,
+      "Name": "Savings"
+    },
+    "Balance": 2000
+  },
+  {
+    "Id": 3,
+    "AccountNumber": "55801512609",
+    "SortCode": "25-20-22",
+    "Name": "Declan",
+    "EmailAddress": "Declan@virtusa.com",
+    "AddressLine": "Liverpool street, London",
+    "Country": "UK",
+    "State": "England",
+    "ZipCode": "2Z12ZP",
+    "AccountType": {
+      "AccountTypeId": 1,
+      "Name": "Current"
+    },
+    "Balance": 3000
+  }
+]
